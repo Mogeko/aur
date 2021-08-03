@@ -4,3 +4,6 @@
 [submodule "mpv-autosub-git"]
 	path = mpv-autosub-git
 	url = ssh://aur@aur.archlinux.org/mpv-autosub-git.git
+[submodule "mpv-autosub-zh"]
+	path = mpv-autosub-zh
+	url = ssh://aur@aur.archlinux.org/mpv-autosub-zh.git
