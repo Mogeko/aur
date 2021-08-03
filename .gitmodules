@@ -7,3 +7,6 @@
 [submodule "mpv-autosub-zh"]
 	path = mpv-autosub-zh
 	url = ssh://aur@aur.archlinux.org/mpv-autosub-zh.git
+[submodule "archlinuxcn-mirrorlist"]
+	path = archlinuxcn-mirrorlist
+	url = ssh://aur.archlinux.org/archlinuxcn-mirrorlist.git
