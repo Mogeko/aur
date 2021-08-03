@@ -1,3 +1,6 @@
 [submodule "mpv-assrt-git"]
 	path = mpv-assrt-git
 	url = ssh://aur@aur.archlinux.org/mpv-assrt-git.git
+[submodule "mpv-autosub-git"]
+	path = mpv-autosub-git
+	url = ssh://aur@aur.archlinux.org/mpv-autosub-git.git
