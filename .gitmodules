@@ -13,3 +13,6 @@
 [submodule "alass"]
 	path = alass
 	url = ssh://aur@aur.archlinux.org/alass.git
+[submodule "mpv-autosubsync-git"]
+	path = mpv-autosubsync-git
+	url = ssh://aur@aur.archlinux.org/mpv-autosubsync-git.git
