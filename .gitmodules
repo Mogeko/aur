@@ -10,3 +10,6 @@
 [submodule "archlinuxcn-mirrorlist"]
 	path = archlinuxcn-mirrorlist
 	url = ssh://aur.archlinux.org/archlinuxcn-mirrorlist.git
+[submodule "alass"]
+	path = alass
+	url = ssh://aur@aur.archlinux.org/alass.git
